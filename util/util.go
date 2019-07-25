@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"gopkg.in/src-d/go-billy.v4"
+	"github.com/cloudperson/go-billy-ex"
 )
 
 // RemoveAll removes path and any children it contains. It removes everything it

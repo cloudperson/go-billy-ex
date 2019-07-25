@@ -4,8 +4,8 @@ import (
 	"strings"
 
 	. "gopkg.in/check.v1"
-	"gopkg.in/src-d/go-billy.v4"
-	"gopkg.in/src-d/go-billy.v4/util"
+	"github.com/cloudperson/go-billy-ex"
+	"github.com/cloudperson/go-billy-ex/util"
 )
 
 // TempFileSuite is a convenient test suite to validate any implementation of

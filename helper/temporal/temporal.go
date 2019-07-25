@@ -1,8 +1,8 @@
 package temporal
 
 import (
-	"gopkg.in/src-d/go-billy.v4"
-	"gopkg.in/src-d/go-billy.v4/util"
+	"github.com/cloudperson/go-billy-ex"
+	"github.com/cloudperson/go-billy-ex/util"
 )
 
 // Temporal is a helper that implements billy.TempFile over any filesystem.

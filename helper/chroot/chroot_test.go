@@ -5,8 +5,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"gopkg.in/src-d/go-billy.v4"
-	"gopkg.in/src-d/go-billy.v4/test"
+	"github.com/cloudperson/go-billy-ex"
+	"github.com/cloudperson/go-billy-ex/test"
 
 	. "gopkg.in/check.v1"
 )

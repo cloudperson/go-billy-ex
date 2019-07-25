@@ -4,7 +4,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"gopkg.in/src-d/go-billy.v4"
+	"github.com/cloudperson/go-billy-ex"
 )
 
 // Polyfill is a helper that implements all missing method from billy.Filesystem.

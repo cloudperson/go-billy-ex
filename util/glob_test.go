@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	. "gopkg.in/check.v1"
-	"gopkg.in/src-d/go-billy.v4/memfs"
-	"gopkg.in/src-d/go-billy.v4/util"
+	"github.com/cloudperson/go-billy-ex/memfs"
+	"github.com/cloudperson/go-billy-ex/util"
 )
 
 func Test(t *testing.T) { TestingT(t) }

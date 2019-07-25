@@ -5,10 +5,10 @@ import (
 	"path/filepath"
 	"testing"
 
-	"gopkg.in/src-d/go-billy.v4"
-	"gopkg.in/src-d/go-billy.v4/memfs"
-	"gopkg.in/src-d/go-billy.v4/test"
-	"gopkg.in/src-d/go-billy.v4/util"
+	"github.com/cloudperson/go-billy-ex"
+	"github.com/cloudperson/go-billy-ex/memfs"
+	"github.com/cloudperson/go-billy-ex/test"
+	"github.com/cloudperson/go-billy-ex/util"
 
 	. "gopkg.in/check.v1"
 )
